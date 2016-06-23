@@ -1,0 +1,754 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AB29913C-4186-4989-A1BC-065F330BB00B}</ProjectGuid>
+    <OutputType>AppContainerExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TOYOTAcars</RootNamespace>
+    <AssemblyName>TOYOTAcars</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <TargetPlatformVersion>8.1</TargetPlatformVersion>
+    <MinimumVisualStudioVersion>12</MinimumVisualStudioVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{BC8A1FFA-BEE3-4634-8014-F334798102B3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PackageCertificateKeyFile>TOYOTAcars_TemporaryKey.pfx</PackageCertificateKeyFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <OutputPath>bin\ARM\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="avalon_feature.xaml.cs">
+      <DependentUpon>avalon_feature.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="avalon_gallery.xaml.cs">
+      <DependentUpon>avalon_gallery.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="avalon_page.xaml.cs">
+      <DependentUpon>avalon_page.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="camry_feature.xaml.cs">
+      <DependentUpon>camry_feature.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="camry_gallery.xaml.cs">
+      <DependentUpon>camry_gallery.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="camry_page.xaml.cs">
+      <DependentUpon>camry_page.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="car and minivan.xaml.cs">
+      <DependentUpon>car and minivan.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="conce pte 2015 ft1 feature.xaml.cs">
+      <DependentUpon>conce pte 2015 ft1 feature.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="concept 2015 Ft1.xaml.cs">
+      <DependentUpon>concept 2015 Ft1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="corolla_feature.xaml.cs">
+      <DependentUpon>corolla_feature.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="corolla_gallery.xaml.cs">
+      <DependentUpon>corolla_gallery.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="corolla_page.xaml.cs">
+      <DependentUpon>corolla_page.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="crossover and suvs.xaml.cs">
+      <DependentUpon>crossover and suvs.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="feedback_page.xaml.cs">
+      <DependentUpon>feedback_page.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="highlander_feature.xaml.cs">
+      <DependentUpon>highlander_feature.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="highlander_gallery.xaml.cs">
+      <DependentUpon>highlander_gallery.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="highlander_page.xaml.cs">
+      <DependentUpon>highlander_page.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Land cruiser.xaml.cs">
+      <DependentUpon>Land cruiser.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="landcruiser_feature.xaml.cs">
+      <DependentUpon>landcruiser_feature.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="landcruiser_galery.xaml.cs">
+      <DependentUpon>landcruiser_galery.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="location.xaml.cs">
+      <DependentUpon>location.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rav4 hybrid.xaml.cs">
+      <DependentUpon>rav4 hybrid.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="rav4_feature.xaml.cs">
+      <DependentUpon>rav4_feature.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="rav4_gallery.xaml.cs">
+      <DependentUpon>rav4_gallery.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="runner picture.xaml.cs">
+      <DependentUpon>runner picture.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="runner_feature.xaml.cs">
+      <DependentUpon>runner_feature.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="sequoia_feature.xaml.cs">
+      <DependentUpon>sequoia_feature.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="sequoia_gallery.xaml.cs">
+      <DependentUpon>sequoia_gallery.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="sequoia_page.xaml.cs">
+      <DependentUpon>sequoia_page.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="sienna_feature.xaml.cs">
+      <DependentUpon>sienna_feature.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="sienna_gallery.xaml.cs">
+      <DependentUpon>sienna_gallery.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="sienna_page.xaml.cs">
+      <DependentUpon>sienna_page.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="tacoma TRD gallery.xaml.cs">
+      <DependentUpon>tacoma TRD gallery.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="tacoma_feature.xaml.cs">
+      <DependentUpon>tacoma_feature.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="tacoma_page.xaml.cs">
+      <DependentUpon>tacoma_page.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="tacoma_picture.xaml.cs">
+      <DependentUpon>tacoma_picture.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="tacoma_TRD.xaml.cs">
+      <DependentUpon>tacoma_TRD.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="tacoma_TRD_feature.xaml.cs">
+      <DependentUpon>tacoma_TRD_feature.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="truck.xaml.cs">
+      <DependentUpon>truck.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="tundra_feature.xaml.cs">
+      <DependentUpon>tundra_feature.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="tundra_gallery.xaml.cs">
+      <DependentUpon>tundra_gallery.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="tundra_page.xaml.cs">
+      <DependentUpon>tundra_page.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="upcoming.xaml.cs">
+      <DependentUpon>upcoming.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="yaris_feature.xaml.cs">
+      <DependentUpon>yaris_feature.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="yaris_gallery.xaml.cs">
+      <DependentUpon>yaris_gallery.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="yaris_page.xaml.cs">
+      <DependentUpon>yaris_page.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="_4_runner_page.xaml.cs">
+      <DependentUpon>_4_runner_page.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <None Include="TOYOTAcars_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="4_runner pics\2014-4runner-blue-2014-4runner-page-14-toyota-4runner-forum-largest-4runner-forum-Picture.jpg" />
+    <Content Include="4_runner pics\2015-toyota-4runner - Copy.png" />
+    <Content Include="4_runner pics\2015-Toyota-4Runner-Wallpaper-Themes-HD.jpg" />
+    <Content Include="4_runner pics\2015-toyota-4runner.png" />
+    <Content Include="4_runner pics\2016-Toyota-4Runner-Wallpapers-For-Laptops.jpg" />
+    <Content Include="4_runner pics\4runner-6.jpg" />
+    <Content Include="4_runner pics\521830.jpg" />
+    <Content Include="4_runner pics\black.jpg" />
+    <Content Include="4_runner pics\darkgray.jpg" />
+    <Content Include="4_runner pics\darkred.jpg" />
+    <Content Include="4_runner pics\FRN_MY15_0046_V002.jpg" />
+    <Content Include="4_runner pics\FRN_MY15_0073_V001.jpg" />
+    <Content Include="4_runner pics\FRN_MY15_0077_V001.jpg" />
+    <Content Include="4_runner pics\IMG_2692HD.jpg" />
+    <Content Include="4_runner pics\navy.jpg" />
+    <Content Include="4_runner pics\sand.jpg" />
+    <Content Include="4_runner pics\vehicles-toyota-4runner-toyota-4runner-car-4x4-prodigious-wallpaper-94079-142979002120.jpg" />
+    <Content Include="4_runner pics\white.jpg" />
+    <Content Include="4_runner pics\white1.jpg" />
+    <Content Include="4_runner pics\white2.jpg" />
+    <Content Include="Assets\Capture.PNG" />
+    <Content Include="Assets\Capture1.PNG" />
+    <Content Include="Assets\introImg.jpg" />
+    <Content Include="Assets\Logo.scale-100.png" />
+    <Content Include="Assets\SmallLogo.scale-100.png" />
+    <Content Include="Assets\SplashScreen.scale-100.png" />
+    <Content Include="Assets\SplashScreen.scale-140.png" />
+    <Content Include="Assets\SplashScreen.scale-180.png" />
+    <Content Include="Assets\StoreLogo.scale-100.png" />
+    <Content Include="Assets\toyota-logo3.gif" />
+    <Content Include="Assets\toyota_splash.png" />
+    <Content Include="avalon pics\AVA_MY16_0017_V001.jpg" />
+    <Content Include="avalon pics\AVA_MY16_0028_V001.jpg" />
+    <Content Include="avalon pics\AVA_MY16_0035_V001.jpg" />
+    <Content Include="avalon pics\AVA_MY16_0038_V001.jpg" />
+    <Content Include="avalon pics\AVA_MY16_0039_V001.jpg" />
+    <Content Include="avalon pics\AVA_MY16_0043_V001.jpg" />
+    <Content Include="avalon pics\AVH_MY16_0002_V001.jpg" />
+    <Content Include="avalon pics\AVH_MY16_0004_V002.jpg" />
+    <Content Include="avalon pics\black.jpg" />
+    <Content Include="avalon pics\darkgray.jpg" />
+    <Content Include="avalon pics\darkred1.jpg" />
+    <Content Include="avalon pics\darkred2.jpg" />
+    <Content Include="avalon pics\gry.jpg" />
+    <Content Include="avalon pics\lightgray.jpg" />
+    <Content Include="avalon pics\navy.jpg" />
+    <Content Include="avalon pics\white.jpg" />
+    <Content Include="camry pics\black.jpg" />
+    <Content Include="camry pics\CAM_MY16_0011_V001.jpg" />
+    <Content Include="camry pics\CAM_MY16_0012_V001.jpg" />
+    <Content Include="camry pics\CAM_MY16_0013_V001.jpg" />
+    <Content Include="camry pics\CAM_MY16_0014_V001.jpg" />
+    <Content Include="camry pics\CAM_MY16_0016_V001.jpg" />
+    <Content Include="camry pics\CAM_MY16_0017_V001.jpg" />
+    <Content Include="camry pics\CAM_MY16_0019_V001.jpg" />
+    <Content Include="camry pics\CAM_MY16_0027_V001.jpg" />
+    <Content Include="camry pics\darkred.jpg" />
+    <Content Include="camry pics\gray.jpg" />
+    <Content Include="camry pics\lightblue.jpg" />
+    <Content Include="camry pics\navy.jpg" />
+    <Content Include="camry pics\white.jpg" />
+    <Content Include="camry pics\white1.jpg" />
+    <Content Include="camry pics\white2.jpg" />
+    <Content Include="corolla pics\black.jpg" />
+    <Content Include="corolla pics\COR_MY16_0020_V001.jpg" />
+    <Content Include="corolla pics\COR_MY16_0021_V001.jpg" />
+    <Content Include="corolla pics\COR_MY16_0022_V001.jpg" />
+    <Content Include="corolla pics\COR_MY16_0023_V001.jpg" />
+    <Content Include="corolla pics\COR_MY16_0024_V001.jpg" />
+    <Content Include="corolla pics\COR_MY16_0026_V001.jpg" />
+    <Content Include="corolla pics\COR_MY16_0029_V001.jpg" />
+    <Content Include="corolla pics\COR_MY16_0030_V001.jpg" />
+    <Content Include="corolla pics\dark green.jpg" />
+    <Content Include="corolla pics\dark red.jpg" />
+    <Content Include="corolla pics\darkgray.jpg" />
+    <Content Include="corolla pics\gray.jpg" />
+    <Content Include="corolla pics\light gray.jpg" />
+    <Content Include="corolla pics\navy.jpg" />
+    <Content Include="corolla pics\red.jpg" />
+    <Content Include="corolla pics\white 2.jpg" />
+    <Content Include="corolla pics\white.jpg" />
+    <Content Include="corolla pics\white1.jpg" />
+    <Content Include="corolla pics\wihte 3.jpg" />
+    <Content Include="highlander pics\black.jpg" />
+    <Content Include="highlander pics\blue.jpg" />
+    <Content Include="highlander pics\darkbrown.jpg" />
+    <Content Include="highlander pics\darkgray.jpg" />
+    <Content Include="highlander pics\HLD_MY14_0007_V004.jpg" />
+    <Content Include="highlander pics\HLD_MY14_0008_V001.jpg" />
+    <Content Include="highlander pics\HLD_MY14_0011_V001.jpg" />
+    <Content Include="highlander pics\HLD_MY14_0029_V003.jpg" />
+    <Content Include="highlander pics\HLD_MY14_0042_V001.jpg" />
+    <Content Include="highlander pics\HLD_MY14_0044_V002.jpg" />
+    <Content Include="highlander pics\HLD_MY14_0047_V009.jpg" />
+    <Content Include="highlander pics\HLD_MY14_0066_V002.jpg" />
+    <Content Include="highlander pics\lightblue.jpg" />
+    <Content Include="highlander pics\lightgray.jpg" />
+    <Content Include="highlander pics\sand.jpg" />
+    <Content Include="highlander pics\white.jpg" />
+    <Content Include="landcruiser pics\070.jpg" />
+    <Content Include="landcruiser pics\1F7.jpg" />
+    <Content Include="landcruiser pics\1G3.jpg" />
+    <Content Include="landcruiser pics\218.jpg" />
+    <Content Include="landcruiser pics\4S6.jpg" />
+    <Content Include="landcruiser pics\LND_MY16_0010_V001.jpg" />
+    <Content Include="landcruiser pics\LND_MY16_0012_V001.jpg" />
+    <Content Include="landcruiser pics\LND_MY16_0018_V001.jpg" />
+    <Content Include="landcruiser pics\LND_MY16_0022_V001.jpg" />
+    <Content Include="landcruiser pics\LND_MY16_0025_V001.jpg" />
+    <Content Include="landcruiser pics\LND_MY16_0026_V001.jpg" />
+    <Content Include="landcruiser pics\LND_MY16_0027_V001.jpg" />
+    <Content Include="landcruiser pics\LND_MY16_0032_V001.jpg" />
+    <Content Include="landcruiser pics\navy.jpg" />
+    <Content Include="logo\download.png" />
+    <Content Include="logo\end_freeze_link.jpg" />
+    <Content Include="Picture\003414-glossy-silver-icon-media-a-media31-back.png" />
+    <Content Include="Picture\040 %281%29.jpg" />
+    <Content Include="Picture\190px_icon_Ability-07.png" />
+    <Content Include="Picture\8P8.jpg" />
+    <Content Include="Picture\8S6.jpg" />
+    <Content Include="Picture\Avalon.jpg" />
+    <Content Include="Picture\AVA_MY16_0011_V003.jpg" />
+    <Content Include="Picture\base %281%29.png" />
+    <Content Include="Picture\base %282%29.png" />
+    <Content Include="Picture\base %283%29.png" />
+    <Content Include="Picture\base %284%29.png" />
+    <Content Include="Picture\base.png" />
+    <Content Include="Picture\camry.jpg" />
+    <Content Include="Picture\highlander.jpg" />
+    <Content Include="Picture\Hihglander.jpg" />
+    <Content Include="Picture\img1.jpg" />
+    <Content Include="Picture\land cruiser.jpg" />
+    <Content Include="Picture\land cruoiser.jpg" />
+    <Content Include="Picture\marquee-top-001-responsive %281%29.jpg" />
+    <Content Include="Picture\marquee-top-001-responsive %282%29.jpg" />
+    <Content Include="Picture\marquee-top-001-responsive %283%29.jpg" />
+    <Content Include="Picture\marquee-top-001-responsive %284%29.jpg" />
+    <Content Include="Picture\marquee-top-001-responsive %285%29.jpg" />
+    <Content Include="Picture\marquee-top-001-responsive %286%29.jpg" />
+    <Content Include="Picture\marquee-top-001-responsive.jpg" />
+    <Content Include="Picture\rav 4 hybrid.jpg" />
+    <Content Include="Picture\RHV_MY16_0011_V002.jpg" />
+    <Content Include="Picture\sequoia.jpg" />
+    <Content Include="Picture\Sienna.jpg" />
+    <Content Include="Picture\tacoma.jpg" />
+    <Content Include="Picture\tacoma_vertical.jpg" />
+    <Content Include="Picture\Tacoma_WelcomeMat.jpg" />
+    <Content Include="Picture\tundra truck.jpg" />
+    <Content Include="Picture\uvp-concept-vehicles.png" />
+    <Content Include="Picture\uvp-trdpro.png" />
+    <Content Include="Picture\welcome_mat_hybrid.jpg" />
+    <Content Include="Picture\white-wallpaper-18.jpg" />
+    <Content Include="Picture\yaris car.jpg" />
+    <Content Include="Picture\YAR_MY15_0009_V003.jpg" />
+    <Content Include="rav4 pics\black.jpg" />
+    <Content Include="rav4 pics\blackwhite.jpg" />
+    <Content Include="rav4 pics\blackwhite.PNG" />
+    <Content Include="rav4 pics\blue.jpg" />
+    <Content Include="rav4 pics\darkred.jpg" />
+    <Content Include="rav4 pics\lightgray.jpg" />
+    <Content Include="rav4 pics\RAV_MY16_0018_V001.jpg" />
+    <Content Include="rav4 pics\RAV_MY16_0019_V001.jpg" />
+    <Content Include="rav4 pics\RAV_MY16_0033_V001.jpg" />
+    <Content Include="rav4 pics\RHV_MY16_0012_V001.jpg" />
+    <Content Include="rav4 pics\RHV_MY16_0020_V001.jpg" />
+    <Content Include="rav4 pics\RHV_MY16_0024_V001.jpg" />
+    <Content Include="rav4 pics\RHV_MY16_0028_V001.jpg" />
+    <Content Include="rav4 pics\RHV_MY16_0033_V001.jpg" />
+    <Content Include="rav4 pics\white.jpg" />
+    <Content Include="rav4 pics\white1.jpg" />
+    <Content Include="rav4 pics\whitegray.jpg" />
+    <Content Include="rav4 pics\whitegray.PNG" />
+    <Content Include="sequaio pics\black.jpg" />
+    <Content Include="sequaio pics\darkgray.jpg" />
+    <Content Include="sequaio pics\gallery-3.jpg" />
+    <Content Include="sequaio pics\gallery-5.jpg" />
+    <Content Include="sequaio pics\gallery-6.jpg" />
+    <Content Include="sequaio pics\gallery-7.jpg" />
+    <Content Include="sequaio pics\gallery-8.jpg" />
+    <Content Include="sequaio pics\lightgray.jpg" />
+    <Content Include="sequaio pics\purlpe.jpg" />
+    <Content Include="sequaio pics\sand.jpg" />
+    <Content Include="sequaio pics\sand1.jpg" />
+    <Content Include="sequaio pics\sequoia-profile-contemporary-building.jpg" />
+    <Content Include="sequaio pics\sequoia-sunset-lamp.jpg" />
+    <Content Include="sequaio pics\sequoia-surfboards-rear.jpg" />
+    <Content Include="sequaio pics\white.jpg" />
+    <Content Include="sequaio pics\white1.jpg" />
+    <Content Include="sienna pics\black.jpg" />
+    <Content Include="sienna pics\darkgray.jpg" />
+    <Content Include="sienna pics\darkred.jpg" />
+    <Content Include="sienna pics\gray.jpg" />
+    <Content Include="sienna pics\lightblue.jpg" />
+    <Content Include="sienna pics\lightgray.jpg" />
+    <Content Include="sienna pics\SIE_MY15_0018_V002.jpg" />
+    <Content Include="sienna pics\SIE_MY15_0023_V001.jpg" />
+    <Content Include="sienna pics\SIE_MY15_0028_V001.jpg" />
+    <Content Include="sienna pics\SIE_MY15_0117_V001.jpg" />
+    <Content Include="sienna pics\SIE_MY15_0120_V001.jpg" />
+    <Content Include="sienna pics\SIE_MY15_0166_V001.jpg" />
+    <Content Include="sienna pics\SIE_MY15_0167_V001.jpg" />
+    <Content Include="sienna pics\SIE_MY15_0168_V001.jpg" />
+    <Content Include="sienna pics\white.jpg" />
+    <Content Include="sienna pics\white2.jpg" />
+    <Content Include="Slider Image\Camry_car.png" />
+    <Content Include="Slider Image\corolla_car.png" />
+    <Content Include="Slider Image\Rav4hybrid_car.png" />
+    <Content Include="tacoma pics\2.jpg" />
+    <Content Include="tacoma pics\3.jpg" />
+    <Content Include="tacoma pics\4.jpg" />
+    <Content Include="tacoma pics\5.jpg" />
+    <Content Include="tacoma pics\6.jpg" />
+    <Content Include="tacoma pics\7.jpg" />
+    <Content Include="tacoma pics\8.jpg" />
+    <Content Include="tacoma pics\black.jpg" />
+    <Content Include="tacoma pics\blue.jpg" />
+    <Content Include="tacoma pics\darkred.jpg" />
+    <Content Include="tacoma pics\gray.jpg" />
+    <Content Include="tacoma pics\lightgray.jpg" />
+    <Content Include="tacoma pics\orange.jpg" />
+    <Content Include="tacoma pics\sand.jpg" />
+    <Content Include="tacoma pics\TAC_MY16_0120_V001.jpg" />
+    <Content Include="tacoma pics\white.jpg" />
+    <Content Include="toyota ft1\fffaf739c872beffa23bf7c3f46b1fac.jpg" />
+    <Content Include="toyota ft1\ft-1-1.jpg" />
+    <Content Include="toyota ft1\ft-1-13.jpg" />
+    <Content Include="toyota ft1\ft-1-2.jpg" />
+    <Content Include="toyota ft1\ft-1-3.jpg" />
+    <Content Include="toyota ft1\ft-1-4.jpg" />
+    <Content Include="toyota ft1\ft-1-5.jpg" />
+    <Content Include="toyota ft1\ft-1-6.jpg" />
+    <Content Include="toyota ft1\ft-1-7.jpg" />
+    <Content Include="toyota ft1\ft-1-8.jpg" />
+    <Content Include="toyota ft1\Toyota-FT1-Sports-Concept.jpg" />
+    <Content Include="trd_pics\42d1bde082f71005863f10145efa6b30.png" />
+    <Content Include="trd_pics\tac.jpg" />
+    <Content Include="trd_pics\TAC_MY17_0002_V001.jpg" />
+    <Content Include="trd_pics\TAC_MY17_0003_V001.jpg" />
+    <Content Include="trd_pics\TAC_MY17_0004_V001.jpg" />
+    <Content Include="trd_pics\TAC_MY17_0005_V001.jpg" />
+    <Content Include="trd_pics\TAC_MY17_0006_V001.jpg" />
+    <Content Include="trd_pics\TAC_MY17_0007_V001.jpg" />
+    <Content Include="trd_pics\TAC_MY17_0009_V001.jpg" />
+    <Content Include="trd_pics\UVP_Tacoma_Welcome_mat.jpg" />
+    <Content Include="tundra pics\black.jpg" />
+    <Content Include="tundra pics\black1.jpg" />
+    <Content Include="tundra pics\blue.jpg" />
+    <Content Include="tundra pics\brown.jpg" />
+    <Content Include="tundra pics\brown1.jpg" />
+    <Content Include="tundra pics\d.jpg" />
+    <Content Include="tundra pics\dark gray.jpg" />
+    <Content Include="tundra pics\e.jpg" />
+    <Content Include="tundra pics\f.jpg" />
+    <Content Include="tundra pics\g.jpg" />
+    <Content Include="tundra pics\lightgray.jpg" />
+    <Content Include="tundra pics\orange.jpg" />
+    <Content Include="tundra pics\red1.jpg" />
+    <Content Include="tundra pics\TUN_MY15_0002_V002.jpg" />
+    <Content Include="tundra pics\TUN_MY15_0100_V002.jpg" />
+    <Content Include="tundra pics\TUN_MY16_0002_V001.jpg" />
+    <Content Include="tundra pics\US-TU14-2-A.jpg" />
+    <Content Include="tundra pics\white.jpg" />
+    <Content Include="yaris pics\1F7.jpg" />
+    <Content Include="yaris pics\1G3.jpg" />
+    <Content Include="yaris pics\209.jpg" />
+    <Content Include="yaris pics\2NS.jpg" />
+    <Content Include="yaris pics\2NU.jpg" />
+    <Content Include="yaris pics\3P0.jpg" />
+    <Content Include="yaris pics\8T7.jpg" />
+    <Content Include="yaris pics\base.png" />
+    <Content Include="yaris pics\Capture.PNG" />
+    <Content Include="yaris pics\Capture1.PNG" />
+    <Content Include="yaris pics\YAR_MY15_0002_V001.jpg" />
+    <Content Include="yaris pics\YAR_MY15_0006_V002.jpg" />
+    <Content Include="yaris pics\YAR_MY15_0016_V001.jpg" />
+    <Content Include="yaris pics\YAR_MY15_0017_V001.jpg" />
+    <Content Include="yaris pics\YAR_MY15_0026_V001.jpg" />
+    <Content Include="yaris pics\YAR_MY15_0029_V001.jpg" />
+    <Content Include="yaris pics\YAR_MY15_0054_V001.jpg" />
+    <Content Include="yaris pics\YAR_MY15_0055_V001.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="avalon_feature.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="avalon_gallery.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="avalon_page.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="camry_feature.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="camry_gallery.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="camry_page.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="car and minivan.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="conce pte 2015 ft1 feature.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="concept 2015 Ft1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="corolla_feature.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="corolla_gallery.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="corolla_page.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="crossover and suvs.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="feedback_page.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="highlander_feature.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="highlander_gallery.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="highlander_page.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Land cruiser.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="landcruiser_feature.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="landcruiser_galery.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="location.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="rav4 hybrid.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="rav4_feature.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="rav4_gallery.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="runner picture.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="runner_feature.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="sequoia_feature.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="sequoia_gallery.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="sequoia_page.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="sienna_feature.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="sienna_gallery.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="sienna_page.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="tacoma TRD gallery.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="tacoma_feature.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="tacoma_page.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="tacoma_picture.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="tacoma_TRD.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="tacoma_TRD_feature.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="truck.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="tundra_feature.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="tundra_gallery.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="tundra_page.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="upcoming.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="yaris_feature.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="yaris_gallery.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="yaris_page.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="_4_runner_page.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '12.0' ">
+    <VisualStudioVersion>12.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,1357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>APPLE2-PC</Machine>
+    <WindowsUser>apple2</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>815cca31-dbdc-4374-9dca-8d1e4df30363</PackageIdentityName>
+    <RegisteredManifestChecksum>77866BDD2BC642903749ABB9FE4B56370615B16DDCE310ACF951591367EBC963</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>815cca31-dbdc-4374-9dca-8d1e4df30363_1.0.0.0_neutral__e10m2x1zcahct</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>815cca31-dbdc-4374-9dca-8d1e4df30363_e10m2x1zcahct!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>815cca31-dbdc-4374-9dca-8d1e4df30363</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=apple2</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-23T20:45:43.207</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\TOYOTAcars.exe">
+      <PackagePath>TOYOTAcars.exe</PackagePath>
+      <Modified>2016-06-23T20:45:42.614</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\4_runner pics\2014-4runner-blue-2014-4runner-page-14-toyota-4runner-forum-largest-4runner-forum-Picture.jpg">
+      <PackagePath>4_runner pics\2014-4runner-blue-2014-4runner-page-14-toyota-4runner-forum-largest-4runner-forum-Picture.jpg</PackagePath>
+      <Modified>2016-06-23T20:18:18.205</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\4_runner pics\2015-Toyota-4Runner-Wallpaper-Themes-HD.jpg">
+      <PackagePath>4_runner pics\2015-Toyota-4Runner-Wallpaper-Themes-HD.jpg</PackagePath>
+      <Modified>2016-06-23T20:18:18.272</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\4_runner pics\2016-Toyota-4Runner-Wallpapers-For-Laptops.jpg">
+      <PackagePath>4_runner pics\2016-Toyota-4Runner-Wallpapers-For-Laptops.jpg</PackagePath>
+      <Modified>2016-06-23T20:18:18.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\4_runner pics\4runner-6.jpg">
+      <PackagePath>4_runner pics\4runner-6.jpg</PackagePath>
+      <Modified>2016-06-23T20:18:18.321</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\4_runner pics\521830.jpg">
+      <PackagePath>4_runner pics\521830.jpg</PackagePath>
+      <Modified>2016-06-23T20:18:18.324</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\4_runner pics\black.jpg">
+      <PackagePath>4_runner pics\black.jpg</PackagePath>
+      <Modified>2016-06-23T20:18:18.326</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\4_runner pics\darkgray.jpg">
+      <PackagePath>4_runner pics\darkgray.jpg</PackagePath>
+      <Modified>2016-06-23T20:18:18.328</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\4_runner pics\darkred.jpg">
+      <PackagePath>4_runner pics\darkred.jpg</PackagePath>
+      <Modified>2016-06-23T20:18:18.330</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\4_runner pics\FRN_MY15_0046_V002.jpg">
+      <PackagePath>4_runner pics\FRN_MY15_0046_V002.jpg</PackagePath>
+      <Modified>2016-06-23T20:18:18.332</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\4_runner pics\FRN_MY15_0073_V001.jpg">
+      <PackagePath>4_runner pics\FRN_MY15_0073_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:18:18.334</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\4_runner pics\FRN_MY15_0077_V001.jpg">
+      <PackagePath>4_runner pics\FRN_MY15_0077_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:18:18.337</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\4_runner pics\IMG_2692HD.jpg">
+      <PackagePath>4_runner pics\IMG_2692HD.jpg</PackagePath>
+      <Modified>2016-06-23T20:18:18.339</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\4_runner pics\navy.jpg">
+      <PackagePath>4_runner pics\navy.jpg</PackagePath>
+      <Modified>2016-06-23T20:18:18.341</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\4_runner pics\sand.jpg">
+      <PackagePath>4_runner pics\sand.jpg</PackagePath>
+      <Modified>2016-06-23T20:18:18.343</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\4_runner pics\vehicles-toyota-4runner-toyota-4runner-car-4x4-prodigious-wallpaper-94079-142979002120.jpg">
+      <PackagePath>4_runner pics\vehicles-toyota-4runner-toyota-4runner-car-4x4-prodigious-wallpaper-94079-142979002120.jpg</PackagePath>
+      <Modified>2016-06-23T20:18:18.345</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\4_runner pics\white.jpg">
+      <PackagePath>4_runner pics\white.jpg</PackagePath>
+      <Modified>2016-06-23T20:18:18.347</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\4_runner pics\white1.jpg">
+      <PackagePath>4_runner pics\white1.jpg</PackagePath>
+      <Modified>2016-06-23T20:18:18.349</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\4_runner pics\white2.jpg">
+      <PackagePath>4_runner pics\white2.jpg</PackagePath>
+      <Modified>2016-06-23T20:18:18.351</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Assets\introImg.jpg">
+      <PackagePath>Assets\introImg.jpg</PackagePath>
+      <Modified>2016-06-23T20:20:14.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\avalon pics\AVA_MY16_0017_V001.jpg">
+      <PackagePath>avalon pics\AVA_MY16_0017_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:20:39.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\avalon pics\AVA_MY16_0028_V001.jpg">
+      <PackagePath>avalon pics\AVA_MY16_0028_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:20:39.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\avalon pics\AVA_MY16_0035_V001.jpg">
+      <PackagePath>avalon pics\AVA_MY16_0035_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:20:39.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\avalon pics\AVA_MY16_0038_V001.jpg">
+      <PackagePath>avalon pics\AVA_MY16_0038_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:20:39.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\avalon pics\AVA_MY16_0039_V001.jpg">
+      <PackagePath>avalon pics\AVA_MY16_0039_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:20:39.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\avalon pics\AVA_MY16_0043_V001.jpg">
+      <PackagePath>avalon pics\AVA_MY16_0043_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:20:39.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\avalon pics\AVH_MY16_0002_V001.jpg">
+      <PackagePath>avalon pics\AVH_MY16_0002_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:20:39.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\avalon pics\AVH_MY16_0004_V002.jpg">
+      <PackagePath>avalon pics\AVH_MY16_0004_V002.jpg</PackagePath>
+      <Modified>2016-06-23T20:20:39.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\avalon pics\black.jpg">
+      <PackagePath>avalon pics\black.jpg</PackagePath>
+      <Modified>2016-06-23T20:20:39.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\avalon pics\darkgray.jpg">
+      <PackagePath>avalon pics\darkgray.jpg</PackagePath>
+      <Modified>2016-06-23T20:20:39.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\avalon pics\darkred1.jpg">
+      <PackagePath>avalon pics\darkred1.jpg</PackagePath>
+      <Modified>2016-06-23T20:20:39.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\avalon pics\darkred2.jpg">
+      <PackagePath>avalon pics\darkred2.jpg</PackagePath>
+      <Modified>2016-06-23T20:20:39.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\avalon pics\gry.jpg">
+      <PackagePath>avalon pics\gry.jpg</PackagePath>
+      <Modified>2016-06-23T20:20:39.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\avalon pics\lightgray.jpg">
+      <PackagePath>avalon pics\lightgray.jpg</PackagePath>
+      <Modified>2016-06-23T20:20:39.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\avalon pics\navy.jpg">
+      <PackagePath>avalon pics\navy.jpg</PackagePath>
+      <Modified>2016-06-23T20:20:39.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\avalon pics\white.jpg">
+      <PackagePath>avalon pics\white.jpg</PackagePath>
+      <Modified>2016-06-23T20:20:39.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\camry pics\black.jpg">
+      <PackagePath>camry pics\black.jpg</PackagePath>
+      <Modified>2016-06-23T20:21:41.912</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\camry pics\CAM_MY16_0011_V001.jpg">
+      <PackagePath>camry pics\CAM_MY16_0011_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:21:41.935</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\camry pics\CAM_MY16_0012_V001.jpg">
+      <PackagePath>camry pics\CAM_MY16_0012_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:21:41.941</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\camry pics\CAM_MY16_0013_V001.jpg">
+      <PackagePath>camry pics\CAM_MY16_0013_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:21:41.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\camry pics\CAM_MY16_0014_V001.jpg">
+      <PackagePath>camry pics\CAM_MY16_0014_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:21:41.954</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\camry pics\CAM_MY16_0016_V001.jpg">
+      <PackagePath>camry pics\CAM_MY16_0016_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:21:41.974</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\camry pics\CAM_MY16_0017_V001.jpg">
+      <PackagePath>camry pics\CAM_MY16_0017_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:21:41.993</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\camry pics\CAM_MY16_0019_V001.jpg">
+      <PackagePath>camry pics\CAM_MY16_0019_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:21:42.004</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\camry pics\CAM_MY16_0027_V001.jpg">
+      <PackagePath>camry pics\CAM_MY16_0027_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:21:42.009</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\camry pics\darkred.jpg">
+      <PackagePath>camry pics\darkred.jpg</PackagePath>
+      <Modified>2016-06-23T20:21:42.030</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\camry pics\gray.jpg">
+      <PackagePath>camry pics\gray.jpg</PackagePath>
+      <Modified>2016-06-23T20:21:42.056</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\camry pics\lightblue.jpg">
+      <PackagePath>camry pics\lightblue.jpg</PackagePath>
+      <Modified>2016-06-23T20:21:42.077</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\camry pics\navy.jpg">
+      <PackagePath>camry pics\navy.jpg</PackagePath>
+      <Modified>2016-06-23T20:21:42.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\camry pics\white.jpg">
+      <PackagePath>camry pics\white.jpg</PackagePath>
+      <Modified>2016-06-23T20:21:42.109</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\camry pics\white1.jpg">
+      <PackagePath>camry pics\white1.jpg</PackagePath>
+      <Modified>2016-06-23T20:21:42.121</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\camry pics\white2.jpg">
+      <PackagePath>camry pics\white2.jpg</PackagePath>
+      <Modified>2016-06-23T20:21:42.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\corolla pics\black.jpg">
+      <PackagePath>corolla pics\black.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:10.831</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\corolla pics\COR_MY16_0020_V001.jpg">
+      <PackagePath>corolla pics\COR_MY16_0020_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:10.850</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\corolla pics\COR_MY16_0021_V001.jpg">
+      <PackagePath>corolla pics\COR_MY16_0021_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:10.856</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\corolla pics\COR_MY16_0022_V001.jpg">
+      <PackagePath>corolla pics\COR_MY16_0022_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:10.861</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\corolla pics\COR_MY16_0023_V001.jpg">
+      <PackagePath>corolla pics\COR_MY16_0023_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:10.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\corolla pics\COR_MY16_0024_V001.jpg">
+      <PackagePath>corolla pics\COR_MY16_0024_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:10.877</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\corolla pics\COR_MY16_0026_V001.jpg">
+      <PackagePath>corolla pics\COR_MY16_0026_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:10.883</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\corolla pics\COR_MY16_0029_V001.jpg">
+      <PackagePath>corolla pics\COR_MY16_0029_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:10.890</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\corolla pics\COR_MY16_0030_V001.jpg">
+      <PackagePath>corolla pics\COR_MY16_0030_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:10.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\corolla pics\dark green.jpg">
+      <PackagePath>corolla pics\dark green.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:10.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\corolla pics\dark red.jpg">
+      <PackagePath>corolla pics\dark red.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:10.963</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\corolla pics\darkgray.jpg">
+      <PackagePath>corolla pics\darkgray.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:10.981</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\corolla pics\gray.jpg">
+      <PackagePath>corolla pics\gray.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:10.992</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\corolla pics\light gray.jpg">
+      <PackagePath>corolla pics\light gray.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:11.002</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\corolla pics\navy.jpg">
+      <PackagePath>corolla pics\navy.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:11.007</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\corolla pics\red.jpg">
+      <PackagePath>corolla pics\red.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:11.012</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\corolla pics\white 2.jpg">
+      <PackagePath>corolla pics\white 2.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:11.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\corolla pics\white.jpg">
+      <PackagePath>corolla pics\white.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:11.033</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\corolla pics\white1.jpg">
+      <PackagePath>corolla pics\white1.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:11.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\corolla pics\wihte 3.jpg">
+      <PackagePath>corolla pics\wihte 3.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:11.058</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\highlander pics\black.jpg">
+      <PackagePath>highlander pics\black.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:34.742</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\highlander pics\blue.jpg">
+      <PackagePath>highlander pics\blue.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:34.760</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\highlander pics\darkbrown.jpg">
+      <PackagePath>highlander pics\darkbrown.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:34.774</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\highlander pics\darkgray.jpg">
+      <PackagePath>highlander pics\darkgray.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:34.780</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\highlander pics\HLD_MY14_0007_V004.jpg">
+      <PackagePath>highlander pics\HLD_MY14_0007_V004.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:34.798</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\highlander pics\HLD_MY14_0008_V001.jpg">
+      <PackagePath>highlander pics\HLD_MY14_0008_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:34.803</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\highlander pics\HLD_MY14_0011_V001.jpg">
+      <PackagePath>highlander pics\HLD_MY14_0011_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:34.844</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\highlander pics\HLD_MY14_0029_V003.jpg">
+      <PackagePath>highlander pics\HLD_MY14_0029_V003.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:34.852</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\highlander pics\HLD_MY14_0042_V001.jpg">
+      <PackagePath>highlander pics\HLD_MY14_0042_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:34.859</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\highlander pics\HLD_MY14_0044_V002.jpg">
+      <PackagePath>highlander pics\HLD_MY14_0044_V002.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:34.878</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\highlander pics\HLD_MY14_0047_V009.jpg">
+      <PackagePath>highlander pics\HLD_MY14_0047_V009.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:34.886</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\highlander pics\HLD_MY14_0066_V002.jpg">
+      <PackagePath>highlander pics\HLD_MY14_0066_V002.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:34.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\highlander pics\lightblue.jpg">
+      <PackagePath>highlander pics\lightblue.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:34.907</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\highlander pics\lightgray.jpg">
+      <PackagePath>highlander pics\lightgray.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:34.921</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\highlander pics\sand.jpg">
+      <PackagePath>highlander pics\sand.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:34.927</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\highlander pics\white.jpg">
+      <PackagePath>highlander pics\white.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:34.935</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\landcruiser pics\070.jpg">
+      <PackagePath>landcruiser pics\070.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:45.529</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\landcruiser pics\1F7.jpg">
+      <PackagePath>landcruiser pics\1F7.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:45.550</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\landcruiser pics\1G3.jpg">
+      <PackagePath>landcruiser pics\1G3.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:45.569</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\landcruiser pics\218.jpg">
+      <PackagePath>landcruiser pics\218.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:45.574</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\landcruiser pics\4S6.jpg">
+      <PackagePath>landcruiser pics\4S6.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:45.581</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\landcruiser pics\LND_MY16_0010_V001.jpg">
+      <PackagePath>landcruiser pics\LND_MY16_0010_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:45.588</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\landcruiser pics\LND_MY16_0012_V001.jpg">
+      <PackagePath>landcruiser pics\LND_MY16_0012_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:45.617</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\landcruiser pics\LND_MY16_0018_V001.jpg">
+      <PackagePath>landcruiser pics\LND_MY16_0018_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:45.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\landcruiser pics\LND_MY16_0022_V001.jpg">
+      <PackagePath>landcruiser pics\LND_MY16_0022_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:45.630</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\landcruiser pics\LND_MY16_0025_V001.jpg">
+      <PackagePath>landcruiser pics\LND_MY16_0025_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:45.637</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\landcruiser pics\LND_MY16_0026_V001.jpg">
+      <PackagePath>landcruiser pics\LND_MY16_0026_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:45.673</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\landcruiser pics\LND_MY16_0027_V001.jpg">
+      <PackagePath>landcruiser pics\LND_MY16_0027_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:45.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\landcruiser pics\LND_MY16_0032_V001.jpg">
+      <PackagePath>landcruiser pics\LND_MY16_0032_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:45.684</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\landcruiser pics\navy.jpg">
+      <PackagePath>landcruiser pics\navy.jpg</PackagePath>
+      <Modified>2016-06-23T20:22:45.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\logo\end_freeze_link.jpg">
+      <PackagePath>logo\end_freeze_link.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:15.162</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\040 %281%29.jpg">
+      <PackagePath>Picture\040 %281%29.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\8P8.jpg">
+      <PackagePath>Picture\8P8.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.522</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\8S6.jpg">
+      <PackagePath>Picture\8S6.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.527</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\Avalon.jpg">
+      <PackagePath>Picture\Avalon.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.543</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\AVA_MY16_0011_V003.jpg">
+      <PackagePath>Picture\AVA_MY16_0011_V003.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.548</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\camry.jpg">
+      <PackagePath>Picture\camry.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.635</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\highlander.jpg">
+      <PackagePath>Picture\highlander.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.647</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\Hihglander.jpg">
+      <PackagePath>Picture\Hihglander.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.664</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\img1.jpg">
+      <PackagePath>Picture\img1.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.672</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\land cruiser.jpg">
+      <PackagePath>Picture\land cruiser.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\land cruoiser.jpg">
+      <PackagePath>Picture\land cruoiser.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.699</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\marquee-top-001-responsive %281%29.jpg">
+      <PackagePath>Picture\marquee-top-001-responsive %281%29.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.707</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\marquee-top-001-responsive %282%29.jpg">
+      <PackagePath>Picture\marquee-top-001-responsive %282%29.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.715</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\marquee-top-001-responsive %283%29.jpg">
+      <PackagePath>Picture\marquee-top-001-responsive %283%29.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.723</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\marquee-top-001-responsive %284%29.jpg">
+      <PackagePath>Picture\marquee-top-001-responsive %284%29.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.733</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\marquee-top-001-responsive %285%29.jpg">
+      <PackagePath>Picture\marquee-top-001-responsive %285%29.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.741</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\marquee-top-001-responsive %286%29.jpg">
+      <PackagePath>Picture\marquee-top-001-responsive %286%29.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.750</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\marquee-top-001-responsive.jpg">
+      <PackagePath>Picture\marquee-top-001-responsive.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\rav 4 hybrid.jpg">
+      <PackagePath>Picture\rav 4 hybrid.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\RHV_MY16_0011_V002.jpg">
+      <PackagePath>Picture\RHV_MY16_0011_V002.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.775</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\sequoia.jpg">
+      <PackagePath>Picture\sequoia.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.785</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\Sienna.jpg">
+      <PackagePath>Picture\Sienna.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.790</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\tacoma.jpg">
+      <PackagePath>Picture\tacoma.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.799</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\tacoma_vertical.jpg">
+      <PackagePath>Picture\tacoma_vertical.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.805</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\Tacoma_WelcomeMat.jpg">
+      <PackagePath>Picture\Tacoma_WelcomeMat.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.811</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\tundra truck.jpg">
+      <PackagePath>Picture\tundra truck.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.816</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\welcome_mat_hybrid.jpg">
+      <PackagePath>Picture\welcome_mat_hybrid.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.833</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\white-wallpaper-18.jpg">
+      <PackagePath>Picture\white-wallpaper-18.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.837</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\yaris car.jpg">
+      <PackagePath>Picture\yaris car.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\YAR_MY15_0009_V003.jpg">
+      <PackagePath>Picture\YAR_MY15_0009_V003.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:32.849</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\rav4 pics\black.jpg">
+      <PackagePath>rav4 pics\black.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:53.291</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\rav4 pics\blackwhite.jpg">
+      <PackagePath>rav4 pics\blackwhite.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:53.296</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\rav4 pics\blue.jpg">
+      <PackagePath>rav4 pics\blue.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:53.304</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\rav4 pics\darkred.jpg">
+      <PackagePath>rav4 pics\darkred.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:53.309</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\rav4 pics\lightgray.jpg">
+      <PackagePath>rav4 pics\lightgray.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:53.314</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\rav4 pics\RAV_MY16_0018_V001.jpg">
+      <PackagePath>rav4 pics\RAV_MY16_0018_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:53.332</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\rav4 pics\RAV_MY16_0019_V001.jpg">
+      <PackagePath>rav4 pics\RAV_MY16_0019_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:53.337</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\rav4 pics\RAV_MY16_0033_V001.jpg">
+      <PackagePath>rav4 pics\RAV_MY16_0033_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:53.343</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\rav4 pics\RHV_MY16_0012_V001.jpg">
+      <PackagePath>rav4 pics\RHV_MY16_0012_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:53.349</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\rav4 pics\RHV_MY16_0020_V001.jpg">
+      <PackagePath>rav4 pics\RHV_MY16_0020_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:53.386</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\rav4 pics\RHV_MY16_0024_V001.jpg">
+      <PackagePath>rav4 pics\RHV_MY16_0024_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:53.391</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\rav4 pics\RHV_MY16_0028_V001.jpg">
+      <PackagePath>rav4 pics\RHV_MY16_0028_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:53.396</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\rav4 pics\RHV_MY16_0033_V001.jpg">
+      <PackagePath>rav4 pics\RHV_MY16_0033_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:53.401</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\rav4 pics\white.jpg">
+      <PackagePath>rav4 pics\white.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:53.412</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\rav4 pics\white1.jpg">
+      <PackagePath>rav4 pics\white1.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:53.417</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\rav4 pics\whitegray.jpg">
+      <PackagePath>rav4 pics\whitegray.jpg</PackagePath>
+      <Modified>2016-06-23T20:23:53.422</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sequaio pics\black.jpg">
+      <PackagePath>sequaio pics\black.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:12.463</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sequaio pics\darkgray.jpg">
+      <PackagePath>sequaio pics\darkgray.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:12.468</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sequaio pics\gallery-3.jpg">
+      <PackagePath>sequaio pics\gallery-3.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:12.486</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sequaio pics\gallery-5.jpg">
+      <PackagePath>sequaio pics\gallery-5.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:12.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sequaio pics\gallery-6.jpg">
+      <PackagePath>sequaio pics\gallery-6.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:12.497</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sequaio pics\gallery-7.jpg">
+      <PackagePath>sequaio pics\gallery-7.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:12.504</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sequaio pics\gallery-8.jpg">
+      <PackagePath>sequaio pics\gallery-8.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:12.510</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sequaio pics\lightgray.jpg">
+      <PackagePath>sequaio pics\lightgray.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:12.552</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sequaio pics\purlpe.jpg">
+      <PackagePath>sequaio pics\purlpe.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:12.567</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sequaio pics\sand.jpg">
+      <PackagePath>sequaio pics\sand.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:12.575</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sequaio pics\sand1.jpg">
+      <PackagePath>sequaio pics\sand1.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:12.582</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sequaio pics\sequoia-profile-contemporary-building.jpg">
+      <PackagePath>sequaio pics\sequoia-profile-contemporary-building.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:12.594</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sequaio pics\sequoia-sunset-lamp.jpg">
+      <PackagePath>sequaio pics\sequoia-sunset-lamp.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:12.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sequaio pics\sequoia-surfboards-rear.jpg">
+      <PackagePath>sequaio pics\sequoia-surfboards-rear.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:12.610</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sequaio pics\white.jpg">
+      <PackagePath>sequaio pics\white.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:12.617</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sequaio pics\white1.jpg">
+      <PackagePath>sequaio pics\white1.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:12.633</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sienna pics\black.jpg">
+      <PackagePath>sienna pics\black.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:27.898</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sienna pics\darkgray.jpg">
+      <PackagePath>sienna pics\darkgray.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:27.904</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sienna pics\darkred.jpg">
+      <PackagePath>sienna pics\darkred.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:27.913</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sienna pics\gray.jpg">
+      <PackagePath>sienna pics\gray.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:27.919</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sienna pics\lightblue.jpg">
+      <PackagePath>sienna pics\lightblue.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:27.923</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sienna pics\lightgray.jpg">
+      <PackagePath>sienna pics\lightgray.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:27.928</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sienna pics\SIE_MY15_0018_V002.jpg">
+      <PackagePath>sienna pics\SIE_MY15_0018_V002.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:27.941</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sienna pics\SIE_MY15_0023_V001.jpg">
+      <PackagePath>sienna pics\SIE_MY15_0023_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:27.947</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sienna pics\SIE_MY15_0028_V001.jpg">
+      <PackagePath>sienna pics\SIE_MY15_0028_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:27.952</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sienna pics\SIE_MY15_0117_V001.jpg">
+      <PackagePath>sienna pics\SIE_MY15_0117_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:27.957</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sienna pics\SIE_MY15_0120_V001.jpg">
+      <PackagePath>sienna pics\SIE_MY15_0120_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:27.963</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sienna pics\SIE_MY15_0166_V001.jpg">
+      <PackagePath>sienna pics\SIE_MY15_0166_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:27.969</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sienna pics\SIE_MY15_0167_V001.jpg">
+      <PackagePath>sienna pics\SIE_MY15_0167_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:27.974</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sienna pics\SIE_MY15_0168_V001.jpg">
+      <PackagePath>sienna pics\SIE_MY15_0168_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:27.979</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sienna pics\white.jpg">
+      <PackagePath>sienna pics\white.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:27.984</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\sienna pics\white2.jpg">
+      <PackagePath>sienna pics\white2.jpg</PackagePath>
+      <Modified>2016-06-23T20:24:27.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tacoma pics\2.jpg">
+      <PackagePath>tacoma pics\2.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:01.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tacoma pics\3.jpg">
+      <PackagePath>tacoma pics\3.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:01.790</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tacoma pics\4.jpg">
+      <PackagePath>tacoma pics\4.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:01.817</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tacoma pics\5.jpg">
+      <PackagePath>tacoma pics\5.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:01.858</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tacoma pics\6.jpg">
+      <PackagePath>tacoma pics\6.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:01.877</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tacoma pics\7.jpg">
+      <PackagePath>tacoma pics\7.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:01.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tacoma pics\8.jpg">
+      <PackagePath>tacoma pics\8.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:01.898</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tacoma pics\black.jpg">
+      <PackagePath>tacoma pics\black.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:01.919</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tacoma pics\blue.jpg">
+      <PackagePath>tacoma pics\blue.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:01.930</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tacoma pics\darkred.jpg">
+      <PackagePath>tacoma pics\darkred.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:01.935</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tacoma pics\gray.jpg">
+      <PackagePath>tacoma pics\gray.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:01.982</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tacoma pics\lightgray.jpg">
+      <PackagePath>tacoma pics\lightgray.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:01.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tacoma pics\orange.jpg">
+      <PackagePath>tacoma pics\orange.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:02.006</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tacoma pics\sand.jpg">
+      <PackagePath>tacoma pics\sand.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:02.025</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tacoma pics\TAC_MY16_0120_V001.jpg">
+      <PackagePath>tacoma pics\TAC_MY16_0120_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:02.031</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tacoma pics\white.jpg">
+      <PackagePath>tacoma pics\white.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:02.068</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\toyota ft1\fffaf739c872beffa23bf7c3f46b1fac.jpg">
+      <PackagePath>toyota ft1\fffaf739c872beffa23bf7c3f46b1fac.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:29.017</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\toyota ft1\ft-1-1.jpg">
+      <PackagePath>toyota ft1\ft-1-1.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:29.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\toyota ft1\ft-1-13.jpg">
+      <PackagePath>toyota ft1\ft-1-13.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:29.076</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\toyota ft1\ft-1-2.jpg">
+      <PackagePath>toyota ft1\ft-1-2.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:29.083</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\toyota ft1\ft-1-3.jpg">
+      <PackagePath>toyota ft1\ft-1-3.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:29.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\toyota ft1\ft-1-4.jpg">
+      <PackagePath>toyota ft1\ft-1-4.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:29.095</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\toyota ft1\ft-1-5.jpg">
+      <PackagePath>toyota ft1\ft-1-5.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:29.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\toyota ft1\ft-1-6.jpg">
+      <PackagePath>toyota ft1\ft-1-6.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:29.106</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\toyota ft1\ft-1-7.jpg">
+      <PackagePath>toyota ft1\ft-1-7.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:29.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\toyota ft1\ft-1-8.jpg">
+      <PackagePath>toyota ft1\ft-1-8.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:29.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\toyota ft1\Toyota-FT1-Sports-Concept.jpg">
+      <PackagePath>toyota ft1\Toyota-FT1-Sports-Concept.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:29.157</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\trd_pics\tac.jpg">
+      <PackagePath>trd_pics\tac.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:49.414</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\trd_pics\TAC_MY17_0002_V001.jpg">
+      <PackagePath>trd_pics\TAC_MY17_0002_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:49.435</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\trd_pics\TAC_MY17_0003_V001.jpg">
+      <PackagePath>trd_pics\TAC_MY17_0003_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:49.441</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\trd_pics\TAC_MY17_0004_V001.jpg">
+      <PackagePath>trd_pics\TAC_MY17_0004_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:49.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\trd_pics\TAC_MY17_0005_V001.jpg">
+      <PackagePath>trd_pics\TAC_MY17_0005_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:49.497</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\trd_pics\TAC_MY17_0006_V001.jpg">
+      <PackagePath>trd_pics\TAC_MY17_0006_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:49.504</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\trd_pics\TAC_MY17_0007_V001.jpg">
+      <PackagePath>trd_pics\TAC_MY17_0007_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:49.511</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\trd_pics\TAC_MY17_0009_V001.jpg">
+      <PackagePath>trd_pics\TAC_MY17_0009_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:49.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\trd_pics\UVP_Tacoma_Welcome_mat.jpg">
+      <PackagePath>trd_pics\UVP_Tacoma_Welcome_mat.jpg</PackagePath>
+      <Modified>2016-06-23T20:25:49.559</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tundra pics\black.jpg">
+      <PackagePath>tundra pics\black.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:04.450</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tundra pics\black1.jpg">
+      <PackagePath>tundra pics\black1.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:04.455</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tundra pics\blue.jpg">
+      <PackagePath>tundra pics\blue.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:04.468</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tundra pics\brown.jpg">
+      <PackagePath>tundra pics\brown.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:04.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tundra pics\brown1.jpg">
+      <PackagePath>tundra pics\brown1.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:04.479</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tundra pics\d.jpg">
+      <PackagePath>tundra pics\d.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:04.493</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tundra pics\dark gray.jpg">
+      <PackagePath>tundra pics\dark gray.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:04.499</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tundra pics\e.jpg">
+      <PackagePath>tundra pics\e.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:04.505</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tundra pics\f.jpg">
+      <PackagePath>tundra pics\f.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:04.512</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tundra pics\g.jpg">
+      <PackagePath>tundra pics\g.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:04.544</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tundra pics\lightgray.jpg">
+      <PackagePath>tundra pics\lightgray.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:04.562</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tundra pics\orange.jpg">
+      <PackagePath>tundra pics\orange.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:04.572</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tundra pics\red1.jpg">
+      <PackagePath>tundra pics\red1.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:04.578</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tundra pics\TUN_MY15_0002_V002.jpg">
+      <PackagePath>tundra pics\TUN_MY15_0002_V002.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:04.584</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tundra pics\TUN_MY15_0100_V002.jpg">
+      <PackagePath>tundra pics\TUN_MY15_0100_V002.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:04.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tundra pics\TUN_MY16_0002_V001.jpg">
+      <PackagePath>tundra pics\TUN_MY16_0002_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:04.607</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tundra pics\US-TU14-2-A.jpg">
+      <PackagePath>tundra pics\US-TU14-2-A.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:04.615</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\tundra pics\white.jpg">
+      <PackagePath>tundra pics\white.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:04.630</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\yaris pics\1F7.jpg">
+      <PackagePath>yaris pics\1F7.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:19.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\yaris pics\1G3.jpg">
+      <PackagePath>yaris pics\1G3.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:19.130</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\yaris pics\209.jpg">
+      <PackagePath>yaris pics\209.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:19.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\yaris pics\2NS.jpg">
+      <PackagePath>yaris pics\2NS.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:19.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\yaris pics\2NU.jpg">
+      <PackagePath>yaris pics\2NU.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:19.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\yaris pics\3P0.jpg">
+      <PackagePath>yaris pics\3P0.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:19.136</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\yaris pics\8T7.jpg">
+      <PackagePath>yaris pics\8T7.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:19.137</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\yaris pics\YAR_MY15_0002_V001.jpg">
+      <PackagePath>yaris pics\YAR_MY15_0002_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:19.144</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\yaris pics\YAR_MY15_0006_V002.jpg">
+      <PackagePath>yaris pics\YAR_MY15_0006_V002.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:19.145</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\yaris pics\YAR_MY15_0016_V001.jpg">
+      <PackagePath>yaris pics\YAR_MY15_0016_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:19.147</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\yaris pics\YAR_MY15_0017_V001.jpg">
+      <PackagePath>yaris pics\YAR_MY15_0017_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:19.148</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\yaris pics\YAR_MY15_0026_V001.jpg">
+      <PackagePath>yaris pics\YAR_MY15_0026_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:19.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\yaris pics\YAR_MY15_0029_V001.jpg">
+      <PackagePath>yaris pics\YAR_MY15_0029_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:19.151</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\yaris pics\YAR_MY15_0054_V001.jpg">
+      <PackagePath>yaris pics\YAR_MY15_0054_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:19.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\yaris pics\YAR_MY15_0055_V001.jpg">
+      <PackagePath>yaris pics\YAR_MY15_0055_V001.jpg</PackagePath>
+      <Modified>2016-06-23T20:26:19.154</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\4_runner pics\2015-toyota-4runner - Copy.png">
+      <PackagePath>4_runner pics\2015-toyota-4runner - Copy.png</PackagePath>
+      <Modified>2016-06-23T20:18:18.231</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\4_runner pics\2015-toyota-4runner.png">
+      <PackagePath>4_runner pics\2015-toyota-4runner.png</PackagePath>
+      <Modified>2016-06-23T20:18:18.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Assets\Capture.PNG">
+      <PackagePath>Assets\Capture.PNG</PackagePath>
+      <Modified>2016-06-23T20:20:14.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Assets\Capture1.PNG">
+      <PackagePath>Assets\Capture1.PNG</PackagePath>
+      <Modified>2016-06-23T20:20:14.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-23T20:20:14.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-23T20:20:14.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-23T20:20:14.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-23T20:20:14.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-23T20:20:14.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-23T20:20:14.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Assets\toyota_splash.png">
+      <PackagePath>Assets\toyota_splash.png</PackagePath>
+      <Modified>2016-06-23T20:20:14.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\logo\download.png">
+      <PackagePath>logo\download.png</PackagePath>
+      <Modified>2016-06-23T20:23:15.145</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\003414-glossy-silver-icon-media-a-media31-back.png">
+      <PackagePath>Picture\003414-glossy-silver-icon-media-a-media31-back.png</PackagePath>
+      <Modified>2016-06-23T20:23:32.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\190px_icon_Ability-07.png">
+      <PackagePath>Picture\190px_icon_Ability-07.png</PackagePath>
+      <Modified>2016-06-23T20:23:32.501</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\base %281%29.png">
+      <PackagePath>Picture\base %281%29.png</PackagePath>
+      <Modified>2016-06-23T20:23:32.551</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\base %282%29.png">
+      <PackagePath>Picture\base %282%29.png</PackagePath>
+      <Modified>2016-06-23T20:23:32.595</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\base %283%29.png">
+      <PackagePath>Picture\base %283%29.png</PackagePath>
+      <Modified>2016-06-23T20:23:32.606</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\base %284%29.png">
+      <PackagePath>Picture\base %284%29.png</PackagePath>
+      <Modified>2016-06-23T20:23:32.618</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\base.png">
+      <PackagePath>Picture\base.png</PackagePath>
+      <Modified>2016-06-23T20:23:32.621</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\uvp-concept-vehicles.png">
+      <PackagePath>Picture\uvp-concept-vehicles.png</PackagePath>
+      <Modified>2016-06-23T20:23:32.825</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Picture\uvp-trdpro.png">
+      <PackagePath>Picture\uvp-trdpro.png</PackagePath>
+      <Modified>2016-06-23T20:23:32.827</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\rav4 pics\blackwhite.PNG">
+      <PackagePath>rav4 pics\blackwhite.PNG</PackagePath>
+      <Modified>2016-06-23T20:23:53.298</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\rav4 pics\whitegray.PNG">
+      <PackagePath>rav4 pics\whitegray.PNG</PackagePath>
+      <Modified>2016-06-23T20:23:53.424</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Slider Image\Camry_car.png">
+      <PackagePath>Slider Image\Camry_car.png</PackagePath>
+      <Modified>2016-06-23T20:24:47.252</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Slider Image\corolla_car.png">
+      <PackagePath>Slider Image\corolla_car.png</PackagePath>
+      <Modified>2016-06-23T20:24:47.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Slider Image\Rav4hybrid_car.png">
+      <PackagePath>Slider Image\Rav4hybrid_car.png</PackagePath>
+      <Modified>2016-06-23T20:24:47.262</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\trd_pics\42d1bde082f71005863f10145efa6b30.png">
+      <PackagePath>trd_pics\42d1bde082f71005863f10145efa6b30.png</PackagePath>
+      <Modified>2016-06-23T20:25:49.407</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\yaris pics\base.png">
+      <PackagePath>yaris pics\base.png</PackagePath>
+      <Modified>2016-06-23T20:26:19.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\yaris pics\Capture.PNG">
+      <PackagePath>yaris pics\Capture.PNG</PackagePath>
+      <Modified>2016-06-23T20:26:19.141</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\yaris pics\Capture1.PNG">
+      <PackagePath>yaris pics\Capture1.PNG</PackagePath>
+      <Modified>2016-06-23T20:26:19.142</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\Assets\toyota-logo3.gif">
+      <PackagePath>Assets\toyota-logo3.gif</PackagePath>
+      <Modified>2016-06-23T20:20:14.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-06-23T20:17:39.350</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\avalon_feature.xbf">
+      <PackagePath>avalon_feature.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.068</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\avalon_gallery.xbf">
+      <PackagePath>avalon_gallery.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.072</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\avalon_page.xbf">
+      <PackagePath>avalon_page.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.075</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\camry_feature.xbf">
+      <PackagePath>camry_feature.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.078</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\camry_gallery.xbf">
+      <PackagePath>camry_gallery.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.081</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\camry_page.xbf">
+      <PackagePath>camry_page.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.084</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\car and minivan.xbf">
+      <PackagePath>car and minivan.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.088</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\conce pte 2015 ft1 feature.xbf">
+      <PackagePath>conce pte 2015 ft1 feature.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.091</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\concept 2015 Ft1.xbf">
+      <PackagePath>concept 2015 Ft1.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.094</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\corolla_feature.xbf">
+      <PackagePath>corolla_feature.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.097</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\corolla_gallery.xbf">
+      <PackagePath>corolla_gallery.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\corolla_page.xbf">
+      <PackagePath>corolla_page.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.104</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\crossover and suvs.xbf">
+      <PackagePath>crossover and suvs.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\feedback_page.xbf">
+      <PackagePath>feedback_page.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\highlander_feature.xbf">
+      <PackagePath>highlander_feature.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.114</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\highlander_gallery.xbf">
+      <PackagePath>highlander_gallery.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.120</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\highlander_page.xbf">
+      <PackagePath>highlander_page.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.123</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\Land cruiser.xbf">
+      <PackagePath>Land cruiser.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.126</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\landcruiser_feature.xbf">
+      <PackagePath>landcruiser_feature.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.130</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\landcruiser_galery.xbf">
+      <PackagePath>landcruiser_galery.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\location.xbf">
+      <PackagePath>location.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.136</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.139</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\rav4 hybrid.xbf">
+      <PackagePath>rav4 hybrid.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.142</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\rav4_feature.xbf">
+      <PackagePath>rav4_feature.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.145</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\rav4_gallery.xbf">
+      <PackagePath>rav4_gallery.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.145</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\runner picture.xbf">
+      <PackagePath>runner picture.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\runner_feature.xbf">
+      <PackagePath>runner_feature.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.149</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\sequoia_feature.xbf">
+      <PackagePath>sequoia_feature.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\sequoia_gallery.xbf">
+      <PackagePath>sequoia_gallery.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.157</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\sequoia_page.xbf">
+      <PackagePath>sequoia_page.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\sienna_feature.xbf">
+      <PackagePath>sienna_feature.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.165</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\sienna_gallery.xbf">
+      <PackagePath>sienna_gallery.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.169</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\sienna_page.xbf">
+      <PackagePath>sienna_page.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.173</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\tacoma TRD gallery.xbf">
+      <PackagePath>tacoma TRD gallery.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.177</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\tacoma_feature.xbf">
+      <PackagePath>tacoma_feature.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.181</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\tacoma_page.xbf">
+      <PackagePath>tacoma_page.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.185</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\tacoma_picture.xbf">
+      <PackagePath>tacoma_picture.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.189</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\tacoma_TRD.xbf">
+      <PackagePath>tacoma_TRD.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\tacoma_TRD_feature.xbf">
+      <PackagePath>tacoma_TRD_feature.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.196</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\truck.xbf">
+      <PackagePath>truck.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.199</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\tundra_feature.xbf">
+      <PackagePath>tundra_feature.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.202</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\tundra_gallery.xbf">
+      <PackagePath>tundra_gallery.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.203</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\tundra_page.xbf">
+      <PackagePath>tundra_page.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.206</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\upcoming.xbf">
+      <PackagePath>upcoming.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.209</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\yaris_feature.xbf">
+      <PackagePath>yaris_feature.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.212</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\yaris_gallery.xbf">
+      <PackagePath>yaris_gallery.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.215</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\yaris_page.xbf">
+      <PackagePath>yaris_page.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.218</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\_4_runner_page.xbf">
+      <PackagePath>_4_runner_page.xbf</PackagePath>
+      <Modified>2016-06-23T20:45:42.221</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\TOYOTAcars\TOYOTAcars\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-06-23T20:45:43.008</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
